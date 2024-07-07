@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ehsan Ahmed</h1>
+<h1 align="center">Hello, I'm Ehsan Ahmed</h1>
 <h3 align="center">I am software Engineer and passionate Full Stack Developer from Pakistan.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malikehsan09&label=Profile%20views&color=0e75b6&style=flat" alt="malikehsan09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malikehsan09" alt="malikehsan09" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ehsan09" target="blank"><img src="https://img.shields.io/twitter/follow/ehsan09?logo=twitter&style=for-the-badge" alt="ehsan09" /></a> </p>
 
@@ -32,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikehsan09&show_icons=true&locale=en&layout=compact" alt="malikehsan09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malikehsan09&show_icons=true&locale=en" alt="malikehsan09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=malikehsan09&" alt="malikehsan09" /></p>
