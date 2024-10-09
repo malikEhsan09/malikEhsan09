@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Ehsan Ahmed</h1>
-<h3 align="center">I am Software Engineer and passionate Full Stack Developer from Pakistan.</h3>
+<h3 align="center">I am Software Engineer and passionate Full Stack Engineer from Pakistan.</h3>
 
 <p align="left"> <a href="https://twitter.com/ehsan09" target="blank"><img src="https://img.shields.io/twitter/follow/ehsan09?logo=twitter&style=for-the-badge" alt="ehsan09" /></a> </p>
 
 - 🔭 I’m currently working on **ACL Tear Detector**
 
-- 🌱 I’m currently learning **DevOps, AWS Services & Docker**
+- 🌱 I’m currently learning **DevOps, AWS Services & Docker & Kubernetes**
 
 - 👨‍💻Personal Portfolio is available at [Ehsan-Portfolio🔗](https://ehsan-portfolio-umber.vercel.app/)
 
