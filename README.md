@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ehsan09" target="blank"><img src="https://img.shields.io/twitter/follow/ehsan09?logo=twitter&style=for-the-badge" alt="ehsan09" /></a> </p>
 
-<img src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3866.jpg?w=900&t=st=1728581450~exp=1728582050~hmac=3436ce018ddcf5c3c8c9bfa01d54269677d179dd0f63dc022ad140d3da22b075" alt="Coding Image" style="border-radius: 40px; width: 100%;"/>
+<img src="https://img.freepik.com/premium-photo/coder-engineer-working-with-his-pc_1293807-9314.jpg?size=626&ext=jpg&ga=GA1.1.110682212.1727855742&semt=ais_hybrid" alt="Coding Image" style="border-radius: 40px; width: 100%;"/>
 
 - 🔭 I’m currently working on **ACL Tear Detector**
 
