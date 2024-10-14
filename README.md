@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Ehsan Ahmed.</h1>
+<h1 align="center">Hello, I'm Ehsan Ahmed</h1>
 <h3 align="center">I am Software Engineer and passionate Full Stack Engineer from pakistan.</h3>
 
 <p align="left"> <a href="https://twitter.com/ehsan09" target="blank"><img src="https://img.shields.io/twitter/follow/ehsan09?logo=twitter&style=for-the-badge" alt="ehsan09" /></a> </p>
