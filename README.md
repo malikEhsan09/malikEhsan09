@@ -4,17 +4,17 @@
 <p align="left"> <a href="https://twitter.com/ehsan09" target="blank"><img src="https://img.shields.io/twitter/follow/ehsan09?logo=twitter&style=for-the-badge" alt="ehsan09" /></a> </p>
 
 
-- 🔭 I’m currently working on **ACL Tear Detector**
+- 🔭 I’m currently working on **ACL Tear Detector.**
 
-- 🌱 I’m currently learning **DevOps, AWS Services & Docker & Kubernetes**
+- 🌱 I’m currently learning **DevOps, AWS Services & Docker & Kubernetes.**
 
 - 👨‍💻Personal Portfolio is available at [Ehsan-Portfolio🔗](https://ehsan-portfolio-umber.vercel.app/)
 
-- 💬 Ask me about **React Js, Vue Js, Next Js**
+- 💬 Ask me about **React Js, Vue Js, Next Js.**
 
-- 🤝 I’m looking to collaborate on Open source projects
+- 🤝 I’m looking to collaborate on Open source projects.
 
-- 📫 How to reach me **ehsanahmed1222001@gmail.com**
+- 📫 How to reach me **ehsanahmed1222001@gmail.com.**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
