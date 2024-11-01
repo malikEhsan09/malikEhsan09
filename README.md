@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Ehsan Ahmed.</h1>
-<h3 align="center">I am Software Engineer and passionate Full Stack Engineer currently working at CEVEN & DevHawks.</h3>
+<h3 align="center">I am Software Engineer and passionate Full Stack Engineer currently working at CEVEN Tech & DevHawks.</h3>
 
 <img align ="right" alt ="Coding" width ="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 <p align="left"> <a href="https://twitter.com/ehsan09" target="blank"><img src="https://img.shields.io/twitter/follow/ehsan09?logo=twitter&style=for-the-badge" alt="ehsan09" /></a> </p>
