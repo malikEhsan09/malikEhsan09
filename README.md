@@ -146,3 +146,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malikehsan09&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F85D7F&border_color=30363D" alt="malikehsan09" />
 </p>
 
+## 📊 GitHub Activity Graph:
+![Ehsan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/api?username=malikEhsan09&theme=github-dark)
+
+
