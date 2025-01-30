@@ -137,7 +137,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainwaheed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
   <p align="center">
-  <img width="54%" src="https://streak-stats.demolab.com?user=captainwaheed&theme=tokyonight&hide_border=true" />
+  <img width="54%" src="https://streak-stats.demolab.com?user=malikEhsan09&theme=tokyonight&hide_border=true" />
   </p>
 </p>
 </p>
