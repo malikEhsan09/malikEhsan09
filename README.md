@@ -1,4 +1,3 @@
-<h1 align="center">Hello, I'm Ehsan Ahmed Rafique</h1>
 <h3 align="center">I am Software Engineer and a passionate Full Stack Engineer currently working at NxtOf.</h3>
 
 <img align ="right" alt ="Coding" width ="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
@@ -133,7 +132,7 @@
 
 <p align="center">
 <a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=captainWaheed&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malikEhsan09&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikEhsan09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
   <p align="center">
