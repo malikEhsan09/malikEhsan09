@@ -1,4 +1,4 @@
-<h1 align="center">hello, I'm Ehsan Ahmed </h1>
+<h1 align="center">hello, I'm Ehsan Ahmed Rafique</h1>
 <h3 align="center">I am Software Engineer and a passionate Full Stack Engineer currently working at NxtOf.</h3>
 
 <img align ="right" alt ="Coding" width ="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
