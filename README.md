@@ -43,14 +43,14 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <h4>Frontend Development</h4>
   <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,redux,tailwind,bootstrap,sass,webpack,vite&perline=6" />
 </div>
 
 <br>
 
-<div align="left">
+<div align="right">
   <h4>Backend Development</h4>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,mysql,postgresql,redis&perline=6" />
 </div>
@@ -64,14 +64,14 @@
 
 <br>
 
-<div align="left">
+<div align="center">
   <h4>Testing and QA</h4>
   <img src="https://skillicons.dev/icons?i=jest,cypress,selenium&perline=6" />
 </div>
 
 <br>
 
-<div align="left">
+<div align="right">
   <h4>IDEs and Design Tools</h4>
   <img src="https://skillicons.dev/icons?i=vscode,idea,vim,figma&perline=6" />
 </div>
