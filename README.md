@@ -15,7 +15,7 @@
 
 <h3 align="left" >About Me:</h3>
 
-- 🔭 I'm currently working on **PropNerd** (React app)
+- 🔭 I'm currently working on **PropNerd**(React app)
 - 🌱 I'm learning **DevOps, AWS Services, Docker & Kubernetes**
 - 👨‍💻 Portfolio: [Ehsan-Portfolio🔗](https://ehsan-portfolio-umber.vercel.app/)
 - 💬 Ask me about **React, Vue, Next.js, React Native**
