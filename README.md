@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ehsan+Ahmed!;I'm+a+Full+Stack+Engineer...;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ehsan+Ahmed+Rafique!;I'm+a+Full+Stack+Engineer...;" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Software Engineer and passionate Full Stack Developer at NxtOf</h3>
