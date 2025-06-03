@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ehsan+Ahmed+Rafique!;I'm+a+Full+Stack+Engineer...;" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Software Engineer and passionate Full Stack Developer & Devops Engineer at NxtOf</h3>
+<h3 align="center">Software Engineer at QVIDE</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malikehsan09&label=Profile%20views&color=0e75b6&style=flat" alt="malikehsan09" />
