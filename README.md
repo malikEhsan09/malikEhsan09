@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malikehsan09&label=Profile%20views&color=0e75b6&style=flat" alt="malikehsan09" />
   <a href="https://twitter.com/ehsan09" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ehsan09?logo=twitter&style=for-the-badge" alt="ehsan09" />
+    <img src="https://img.shields.io/twitter/follow/https://www.instagram.com/&style=for-the-badge" alt="ehsan09" />
   </a>
 </p>
 
