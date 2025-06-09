@@ -18,7 +18,7 @@
 - 🔭 I'm currently working on **SignalSim Json Builder**(Python)
 - 🌱 I'm learning **DevOps, AWS Services, Docker & Kubernetes**
 - 👨‍💻 Portfolio: [Ehsan-Portfolio🔗](https://ehsan-portfolio-umber.vercel.app/)
-- 💬 Ask me about **React, Vue, Next.js, React Native**
+- 💬 Ask me about **React.Js, Vue.Js, Next.js, React Native, Docker, AWS Services, Node.js, Express.Js, MongoDB, MySQL**
 - 🤝 Open to collaborate on **Open source projects**
 - 📫 Reach me at **ehsanahmed1222001@gmail.com**
 
