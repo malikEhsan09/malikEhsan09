@@ -4,13 +4,6 @@
 
 <h3 align="center">Software Engineer at QVISE.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malikehsan09&label=Profile%20views&color=0e75b6&style=flat" alt="malikehsan09" />
-  <a href="https://twitter.com/ehsan09" target="blank">
-    <img src="https://img.shields.io/twitter/follow/&style=for-the-badge" alt="ehsan09" />
-  </a>
-</p>
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
 <h3 align="left" >About Me:</h3>
