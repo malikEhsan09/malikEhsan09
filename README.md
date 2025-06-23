@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ehsan+Ahmed!;I'm+a+Full+Stack+Engineer...;I'm+a+Software+Engineer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Software Engineer at QVISE.</h3>
+<h3 align="center">Software Engineer at QVISE Pvt Ltd.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
