@@ -9,7 +9,7 @@
 - 🔭 I'm currently working on **GNSS Simulator && Receiver**(Python + Cpp).
 - 🌱 I'm learning **DevOps, AWS Services, Docker & Kubernetes**
 - 👨‍💻 Portfolio: [Ehsan-Portfolio🔗](https://ehsan-portfolio-umber.vercel.app/)
-- 💬 Ask me about **React.Js, Vue.Js, Next.js, React Native, Docker, AWS Services, Node.js, Express.Js, MongoDB, MySQL**
+- 💬 Ask me about **React.Js, Vue.Js, Next.js, Docker, AWS Services, Node.js, Express.Js, MongoDB, MySQL, CPP, Python**
 - 🤝 Open to collaborate on **Open source projects**
 - 📫 Reach me at **ehsanahmed1222001@gmail.com**
 <br>
