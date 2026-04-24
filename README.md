@@ -1,5 +1,5 @@
 <h1 align="center">"Ehsan Ahmed Rafique"</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Embeded Engineer</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | Firmware Engineer</h3>
 <p align="center">Software Engineer at QVISE Pvt Ltd.</p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
