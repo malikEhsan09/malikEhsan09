@@ -51,7 +51,7 @@
 
 <div align="left">
   <h4>IDEs and Design Tools</h4>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,vim,figma, cursor&perline=6" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,vim,figma&perline=6" />
 </div>
 </p>
 
