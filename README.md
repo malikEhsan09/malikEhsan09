@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <h4>Programming Languages</h4>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,php,cpp,java&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java&perline=6" />
 </div>
 <br>
 
