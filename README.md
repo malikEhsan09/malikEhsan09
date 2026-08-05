@@ -23,7 +23,7 @@
 
 <div align="left">
   <h4>Frontend Development</h4>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,redux,tailwind,bootstrap,sass,webpack,vite&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,redux,tailwind,bootstrap,sass,webpack,vite&perline=6" />
 </div>
 
 <br>
