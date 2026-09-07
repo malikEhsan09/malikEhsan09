@@ -1,4 +1,4 @@
-<h1 align="center">Ehsan Ahmed Rafique</h1>
+<h1 align="center">Ehsan Ahmed Rafique.</h1>
 
 <h3 align="center">
 Software Engineer • Full Stack Developer & Cloud Engineer • Firmware Engineer 
