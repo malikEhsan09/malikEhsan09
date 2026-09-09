@@ -1,7 +1,7 @@
 <h1 align="center">Ehsan Ahmed Rafique</h1>
 
 <h3 align="center">
-Full Stack Engineer | Cloud Infrastructure Specialist
+Full Stack Engineer | Cloud Infrastructure Specialist.
 </h3>
 
 <p align="center">
